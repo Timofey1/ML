@@ -2,9 +2,9 @@
 1. [TRUBI](#trubi)
 2. [COMP](#comp)
 3. [Diabetic_diagnosis](#db)
-4. [PatientLifespan](#pl)
-5. [SITE](#site)
-6. [brooklyn](#brooklyn)
+4. [brooklyn](#brooklyn)
+5. [PatientLifespan](#pl)
+6. [SITE](#site)
 
 ### TRUBI <div id='trubi'/>
 Разработка технологии нахождения дефектов на сварочных соединениях с помощью трех методов ультразвукового контроля: 
